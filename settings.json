@@ -1,0 +1,5 @@
+{
+    "hosts_path":"C:/Windows/System32/drivers/etc/hosts",
+    "redirect":"127.0.0.1",
+    "blocked_websites":["www.youtube.com", "youtube.com"]
+}
